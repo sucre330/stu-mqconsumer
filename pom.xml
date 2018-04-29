@@ -13,6 +13,7 @@
   <version>${stu-mqconsumer.version}</version>
   
   
+  
   <dependencies>
   <!-- Common Dependency Begin -->
 		<dependency>
@@ -108,7 +109,6 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			 <version>1.2.5</version>
 		</dependency>
 
 		<!-- Common Dependency End -->
@@ -165,12 +165,10 @@
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
-			<version>5.12.2</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-pool</artifactId>
-			<version>5.12.2</version>
 		</dependency>
 
 		<dependency>
